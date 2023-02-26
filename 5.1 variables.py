@@ -1,0 +1,4 @@
+
+course = "Python "
+
+print(course)
